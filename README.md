@@ -7,5 +7,5 @@ melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ![LP4 drawio](https://github.com/HumaySenja/LP4DPBO2024C1/assets/159203684/35875d96-b6a4-4b08-adfc-4796bf4783e8)
 
-Jadi kelas Kendaraan punya 2 anak yaitu Mobil dan Motor
-Garasi dan Kendaraan punya hubungan Komposisi
+1. Jadi kelas Kendaraan punya 2 anak yaitu Mobil dan Motor
+2. Garasi dan Kendaraan punya hubungan Komposisi
